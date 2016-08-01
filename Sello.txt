@@ -1,0 +1,10 @@
+Basic c2JpY3phMDFcc2ExNzE5NjIxOk1pbGsmQ29va2llcw==
+
+
+
+sbicza01\c20999419:Password --> Base64 encoding
+
+header --> AUthorization --> Basic c2JpY3phMDFcYzIwOTk5NDE5OkF1Z0AyMDE2IQ==
+c2JpY3phMDFcYzIwOTk5NDE5OkF1Z0AyMDE2IQ==
+
+
